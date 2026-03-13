@@ -1,0 +1,2057 @@
+{
+  "type": "colormaps",
+  "items": [
+    {
+      "name_ru": "Глайд",
+      "name_en": "Glide",
+      "description_en": "This unique paint job was designed for members of the «Academy of Parkour» parkour team. These guys not only perform various tricks on their tanks, but also produce excellent video guides.",
+      "description_ru": "Это уникальное покрытие было разработано для членов команды паркура «Академия Паркура». Эти ребята не только выполняют различные трюки на своих танках, но и выпускают отличные видеогайды.",
+      "modification": 0,
+      "id": "tot",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "unknown",
+          "value": ""
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Оператор",
+      "name_en": "Spectator",
+      "description_en": "This paint is issued to the members of the Tanki Online Spectator group and shows that the owner is a real master of shooting and montage.",
+      "description_ru": "Данная краска создана специально для группы операторов «Танков Онлайн». Её наличие говорит о том, что владелец покрытия — настоящий мастер съёмки и монтажа.",
+      "modification": 0,
+      "id": "spectator",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "unknown",
+          "value": ""
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Гелиос",
+      "name_en": "Helios",
+      "description_en": "This unique coating is found during archaeological excavations of the ancient city full of temples, where people used to worship the ancient sun god. Legend has it that this paint holds enormous amounts of energy that can be used only by truly creative people. Every artist wants it but only the members of the Creative League and chosen artists can wear the Helios.",
+      "description_ru": "Это уникальное покрытие найдено во время археологических раскопок древнего города, где располагался храм солнечного божества. Легенды гласят, что обладатель этой краски получает заключённую в ней безграничную энергию — и может использовать её только в созидательных целях, в творчестве. Каждый художник мечтает заполучить экземпляр, но только легионеры Творческой Лиги имеют право носить корону Гелиоса.",
+      "modification": 0,
+      "id": "helios",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "unknown",
+          "value": ""
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Лучший помощник",
+      "name_en": "Best helper",
+      "description_en": "This unique coating is found during archaeological excavations of the ancient city full of temples, where people used to worship the ancient sun god. Legend has it that this paint holds enormous amounts of energy that can be used only by truly creative people. Every artist wants it but only the members of the Creative League and chosen artists can wear the Helios.",
+      "description_ru": "Это уникальное покрытие найдено во время археологических раскопок древнего города, где располагался храм солнечного божества. Легенды гласят, что обладатель этой краски получает заключённую в ней безграничную энергию — и может использовать её только в созидательных целях, в творчестве. Каждый художник мечтает заполучить экземпляр, но только легионеры Творческой Лиги имеют право носить корону Гелиоса.",
+      "modification": 0,
+      "id": "besthelper",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "unknown",
+          "value": ""
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "null",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "flash",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "7%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "7%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "7%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "7%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "7%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "7%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "7%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "7%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "7%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "null",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "alimia",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "10%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Кислота",
+      "name_en": "Acid",
+      "description_en": "The main component of this elite paint is venereal acid fog that consists of small droplets of sulfuric acid. It's really expensive to extract and transport this component to Earth so you can't find Acid on the market. But those who manage to get a hold of it will be invulnerable to all natural disasters.",
+      "description_ru": "Основная составляющая этого элитного покрытия — венерианский кислотный туман, состоящий из мельчайших капелек серной кислоты. Добывать и доставлять этот компонент на Землю очень дорого, именно поэтому «Кислоту» не найти в открытой продаже. Но тем, кому всё-таки удалось заполучить заветную краску, не страшны никакие природные катаклизмы!",
+      "modification": 0,
+      "id": "acid",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "15%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "15%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "15%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "15%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "15%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "15%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "15%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "15%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "15%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Чемпион",
+      "name_en": "Champion",
+      "description_en": "Champion is a unique paint which is impossible to buy even on the black market. It is made of gold and platinum fibers and issued only to the winners of the clan tournament. Attention! The paint is a trophy given to the winners of the StarSeries. Players who lose their champion status lose their paint too.",
+      "description_ru": "Уникальное покрытие «Чемпион» нельзя купить ни за какие деньги даже на чёрном рынке. Изготовленное из золотых и платиновых волокон, оно строго под роспись выдаётся лишь победителям межкланового чемпионата.",
+      "modification": 0,
+      "id": "champion",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "20%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "20%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "20%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "20%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "20%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "20%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "20%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "20%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "20%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Властелин",
+      "name_en": "The Lord",
+      "description_en": "Covering «The Lord» does not exist officially. It is not in the databases and catalogs of components for tanks. But there are rumors that a single-set paint set is not a fiction, but a reality! Some even claim that they have personally seen the ominously black tank that terrifies their enemies. But where to find him is unknown...",
+      "description_ru": "Покрытие «Властелин» не существует официально. Его нет в базах данных и каталогах комплектующих для танков. Но ходят слухи, что выпущенный в единственном экземпляре покрасочный набор — не выдумка, а реальность! Некоторые даже уверяют, что лично видели зловеще-чёрный танк, вселяющий ужас в своих врагов. Но где его найти — неизвестно...",
+      "modification": 0,
+      "id": "vlastelin",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "30%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "30%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "30%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "30%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "30%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "30%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "30%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "30%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "30%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Анубис",
+      "name_en": "Anubis",
+      "description_en": "Anubis - the ancient deity of Egypt, the conductor of the dead in the afterlife. After a long stay in the next kingdom, Anubis decided to return to the realm of the living to incarnate dirty souls in the realm of the dead. He won, executed a lucky ticket.",
+      "description_ru": "Анубис - древнее божество Египта, с головой шакала и телом человека, проводник умерших в загробный мир. Спустя долгое пребывание в загробном царстве, Анубис решил вернуться в царство живых для воплощения кары и изъятия грязных душ в царство мертвых. Его мало кто видел, но ходит легенда, что он практически бессмертный и тем кому удается его победить, выпадает счастливый билет.",
+      "modification": 0,
+      "id": "anubis",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "95%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "95%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "95%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "95%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "95%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "95%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "95%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "95%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "95%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Флоу",
+      "name_en": "Flow",
+      "description_en": "A legendary animated tank coating - the first of its kind.\n\nUltra-compact tesla-generators cause energy to flow along the tank's body, surrounding it with a moving field of unstable particles that swirls around the tank in hypnotic, swaying patterns.\n\nThis special paint was originally named «XF-245RD». However, it was soon nicknamed «Flow», not just because of its flowing patterns, but because the tankers who use it personify the deadly calm and crushing power of flowing water.",
+      "description_ru": "Легендарное анимированное танковое покрытие — первое в своём роде.\n\nУльтракомпактные генераторы Тесла производят энергию, которая растекается по корпусу танка и покрывает его ритмично движущимся полем из нестабильных частиц. Завихрения этого поля создают гипнотизирующий узор.\n\nЭта уникальная краска изначально была названа «XF-245RD», однако позже была переименована в «Flow», что переводится с английского языка как «поток». Этим именем краска обязана не только своему движущемуся узору, но и сокрушительной мощи стихии воды, которую олицетворяют собой танкисты, использующие это покрытие.",
+      "modification": 0,
+      "id": "flow",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "15%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "15%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "15%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "15%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "15%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "15%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "15%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "15%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "15%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Кошмар",
+      "name_en": "Nightmare",
+      "description_en": "Few dare to approach these tanks, but those who conquer the chilling horror of a thousand faces screaming in eternal agony will know no fear. You will become Nightmare incarnate.\n\nRumors say that every kill made with paint will add one more howling soul.",
+      "description_ru": "Немногие осмеливаются хотя бы приблизиться к танкам в этом покрытии. Однако те, кто найдёт в себе силы преодолеть леденящий ужас, который вселяют призрачные лица, безмолвно кричащие в бесконечной агонии, больше никогда не будут испытывать страх. Они сами станут воплощением кошмара.\n\nХодят слухи, что когда танк с этим покрытием уничтожает противника, на его корпусе становится одним кричащим лицом больше.",
+      "modification": 0,
+      "id": "nightmare",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "10%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Спектр",
+      "name_en": "Spectrum",
+      "description_en": "This paint has been developed using the latest in quantum research technologies, which allow for probability effects to be applied to a macroworld. The first thought of the creators was to finally do the Schrodinger's cat experiment, but it was blocked by animal rights activists. So instead, they made this paint. If you don't mind all of the complex mathematics and scientific research, it's just a monochromatic paint of a green... wait, blu... wait... red color. Oh for the love of!.. Yellow! AAA! Purple! That's it, I'm done, write this description yourself.",
+      "description_ru": "Это покрытие разработано с учётом редчайших квантовых технологий, позволяющих переносить вероятностные эффекты в макромир. Первой мыслью создателей технологии было наконец провести реальный эксперимент с суперпозицией кота Шрёдингера, но сделать это им не позволили защитники животных. Поэтому результатом их работы стала эта краска. Несмотря на всю сложную математику и научные изыскания, она представляет собой всего лишь монотонное покрытие зелёного... нет, синего цве... нет, постойте, красного... да чтоб тебя, жёлтого! ААА! ФИОЛЕТОВОГО! Так, всё, хватит с меня, сами пишите это описание!",
+      "modification": 0,
+      "id": "spectr",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "5%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Араб",
+      "name_en": "Spectrum",
+      "description_en": "This paint has been developed using the latest in quantum research technologies, which allow for probability effects to be applied to a macroworld. The first thought of the creators was to finally do the Schrodinger's cat experiment, but it was blocked by animal rights activists. So instead, they made this paint. If you don't mind all of the complex mathematics and scientific research, it's just a monochromatic paint of a green... wait, blu... wait... red color. Oh for the love of!.. Yellow! AAA! Purple! That's it, I'm done, write this description yourself.",
+      "description_ru": "Это покрытие разработано с учётом редчайших квантовых технологий, позволяющих переносить вероятностные эффекты в макромир. Первой мыслью создателей технологии было наконец провести реальный эксперимент с суперпозицией кота Шрёдингера, но сделать это им не позволили защитники животных. Поэтому результатом их работы стала эта краска. Несмотря на всю сложную математику и научные изыскания, она представляет собой всего лишь монотонное покрытие зелёного... нет, синего цве... нет, постойте, красного... да чтоб тебя, жёлтого! ААА! ФИОЛЕТОВОГО! Так, всё, хватит с меня, сами пишите это описание!",
+      "modification": 0,
+      "id": "arab",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "5%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Красная молния",
+      "name_en": "Red lightning",
+      "description_en": "xakep33rus",
+      "description_ru": "хакер33рус",
+      "modification": 0,
+      "id": "redl",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "5%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Сияние",
+      "name_en": "Radiance",
+      "description_en": "For Gamb1k",
+      "description_ru": "Для Gamb1kа",
+      "modification": 0,
+      "id": "radiance",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "5%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Сплетение",
+      "name_en": "Plexus",
+      "description_en": "For Gamb1k",
+      "description_ru": "Для Gamb1kа",
+      "modification": 0,
+      "id": "plexus",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "5%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Гирлянда",
+      "name_en": "Holiday Lights",
+      "description_en": "Turret protection:\nTwins - 25%\nFirebird - 20%\n\nHoliday preparations are a special task for real tankers. Try decorating a tree when you have metal tracks and you'll wrap yourself in holiday lights with sparkles! Those who go into battle equipped with colorful lights are the most feared on the battlefield. Or so we are told.",
+      "description_ru": "Защита от пушек:\nТвинс - 25%\nОгнемёт - 20%\n\nПодготовка к Новому году — серьёзное испытание для настоящих танкистов. Ведь весьма непросто украшать ёлку, когда у тебя лапки... То есть гусеницы! Можно и запутаться в гирляндах и мишуре. Порой танкисты настолько увлекаются, что выезжают крушить врагов, опутанные мигающими огоньками. Что, впрочем, не сказывается на их боевой эффективности.",
+      "modification": 0,
+      "id": "garland",
+      "special_item": true,
+      "price_m0": "6000",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "fire_resistance",
+          "value": "25%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "25%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Джинга",
+      "name_en": "Ginga",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "ginga",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "5%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Вирус",
+      "name_en": "Virus",
+      "description_en": "Protection from all guns: 5%\n\nBoiling, bursting energy - that's what distinguishes tankers-content makers. And they share their energy with the world, infect people with their enthusiasm, helping to reveal the project in all its glory. Often in their professional environment, there are releases of viruses transmitted with water, but such outbreaks quickly stop, because PT youtubers practically do not use water.",
+      "description_ru": "Защита от всех пушек: 5%\n\nДанная краска создана специально для ютуберов «PTanks».",
+      "modification": 0,
+      "id": "virus",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "5%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Тестер",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "tester",
+      "special_item": true,
+      "price_m0": "0",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "unknown",
+          "value": ""
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Модератор",
+      "name_en": "Moderator",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "moderator",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "10%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Репортёр",
+      "name_en": "Reporter",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "reporter",
+      "special_item": true,
+      "price_m0": "0",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "unknown",
+          "value": ""
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Пламя",
+      "name_en": "Flame",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "flame",
+      "special_item": true,
+      "price_m0": "0",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "unknown",
+          "value": ""
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Скорость",
+      "name_en": "Speed",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "spid",
+      "special_item": true,
+      "price_m0": "0",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "unknown",
+          "value": ""
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Панк",
+      "name_en": "Punk",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "punk",
+      "special_item": true,
+      "price_m0": "0",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "unknown",
+          "value": ""
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Блинк",
+      "name_en": "Blink",
+      "description_en": "Turret protection:\nRailgun - 40%\nThunder - 40%\nRicochet - 40%\n\nWeakness to turrets:\nFirebird - 20%\nIsida - 25%\nFreeze - 30%\n\nThis coating is based on the most complex developments in the field of electronic warfare technologies. This made it possible to effectively resist the most advanced automatic guidance systems of most guns, seriously increasing the tank's survivability in battle. However, due to the poor penetration of the tank's armor, the configuration of this coating requires its weakening. This resulted in a slight decrease in the protection of tanks from melee attacks!",
+      "description_ru": "Защита от пушек:\nРельса - 40%\nГром - 40%\nРикошет - 40%\n\nУязвимость к пушкам:\nОгнемёт - 20%\nИзида - 25%\nФриз - 30%\n\nВ основу этого покрытия положены сложнейшие разработки в области РЭБ-технологий. Это позволило эффективно противостоять наиболее продвинутым автоматическим системам наведения большинства пушек, серьёзно повышая живучесть танка в бою. Однако, из-за плохой проницаимости брони танка, комплектация этого покрытия требует её ослабления. Это привело к небольшому снижению защищённости танки от атак ближнего боя!",
+      "modification": 0,
+      "id": "blink",
+      "special_item": true,
+      "price_m0": "20000",
+      "rang_m0": "15",
+      "propertys_m0": [
+        {
+          "type": "fire_resistance",
+          "value": "-20%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "40%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "40%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "40%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "-25%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "-30%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Ведьма",
+      "name_en": "Witch",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "witch",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "10%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Прикосновение холода",
+      "name_en": "A touch of cold",
+      "description_en": "Turret protection:\nFirebird - 40%\nIsida - 40%\nFreeze - 40%\n\nThe owner of this paint is a vivid example of restraint and composure. Such a tanker remains unperturbed even in the hottest battle, and no one can predict his further actions. A harmless snowflake or the strongest blizzard? The answer to this question often comes too late.",
+      "description_ru": "Защита от пушек:\nОгнемёт - 22%\nИзида - 22%\nФриз - 22%\n\nВладелец этой краски — яркий пример сдержанности и хладнокровия. Такой танкист остаётся невозмутим даже в самом жарком сражении, и никому не под силу предугадать его дальнейшие действия. Безобидная снежинка или сильнейшая вьюга? Ответ на этот вопрос зачастую приходит слишком поздно.",
+      "modification": 0,
+      "id": "newyear2020",
+      "special_item": true,
+      "price_m0": "5000",
+      "rang_m0": "8",
+      "propertys_m0": [
+        {
+          "type": "fire_resistance",
+          "value": "22%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "22%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "22%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Биение сердец",
+      "name_en": "Heart beat",
+      "description_en": "Imagine that you have been sucked into the maelstrom of events, the vise is shrinking, and there is almost no time left to make a decision. What will you choose — to kill or to love?",
+      "description_ru": "Представьте, что вас затянуло в водоворот событий, тиски сжимаются, и времени на принятие решения почти не осталось. Что вы выберете — убить или любить?",
+      "modification": 0,
+      "id": "heartbeat",
+      "special_item": true,
+      "price_m0": "6900",
+      "rang_m0": "7",
+      "propertys_m0": [
+        {
+          "type": "vampire_resistance",
+          "value": "30%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "25%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Розовый кристалл",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "rosequartz",
+      "special_item": true,
+      "price_m0": "3500",
+      "rang_m0": "8",
+      "propertys_m0": [
+        {
+          "type": "rail_resistance",
+          "value": "18%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "18%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Наркотик",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "drug",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "10%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Космос",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "space",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "10%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Дымовая завеса",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "smokescreen",
+      "special_item": true,
+      "price_m0": "2000",
+      "rang_m0": "8",
+      "propertys_m0": [
+        {
+          "type": "unknown",
+          "value": ""
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Галактика",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "galaxy",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "10%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Яблоко",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "apple",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "10%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Матрица",
+      "name_en": "Matrix",
+      "description_en": "korzhik",
+      "description_ru": "коржык",
+      "modification": 0,
+      "id": "matrix",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "10",
+      "propertys_m0": [
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "15%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Хэллоуин",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "halloween2020",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "10%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Ночной город",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "nightcity",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "10%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Тыквы",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "pumpkins",
+      "special_item": true,
+      "price_m0": "2000",
+      "rang_m0": "8",
+      "propertys_m0": [
+        {
+          "type": "unknown",
+          "value": ""
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Новый год 2021",
+      "name_en": "New year 2021",
+      "description_en": "Turret protection:\nRailgun - 10%\nIsida - 5%\nRicochet - 15%\n\nThis paint was released to celebrate the arrival of 2021. May her bright and shiny patterns bring you endless joy and good luck.",
+      "description_ru": "Защита от пушек:\nРельса - 10%\nИзида - 5%\nРикошет - 15%\n\nЭта краска была выпущена в честь наступления 2021 года. Пусть её яркие и блестящие узоры принесут вам бесконечную радость и удачу.",
+      "modification": 0,
+      "id": "newyear2021",
+      "special_item": true,
+      "price_m0": "5000",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "5%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "15%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Крио",
+      "name_en": "Cryo",
+      "description_en": "Turret protection:\nSmoky - 15%\nThunder - 20%\nFreeze - 20%\n\nThe coating was developed to protect against the effect of a Flamethrower — periodic cooling perfectly saved from burning out. However, outside of the fight, every few seconds the tank froze, reducing the effectiveness of protection to zero.",
+      "description_ru": "Защита от пушек:\nСмоки - 15%\nГром - 20%\nФриз - 20%\n\nПокрытие разрабатывалось для защиты от эффекта Огнемёта — периодическое охлаждение отлично спасало от догорания. Однако вне схватки каждые несколько секунд танк замораживался, сводя эффективность защиты к нулю.",
+      "modification": 0,
+      "id": "krio",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "15%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "20%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "20%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Вспышка",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "outburst",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "10%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Нежные цветы",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "flowers",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "10%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Создатель",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "creator",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "10%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Луноход",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "moonwalker",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "10%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Треугольник",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "triangles",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "10%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Гроза",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "thunderstorm",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "10%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Древние руны",
+      "name_en": "null",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "ancient_runes",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "10%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "IDDQD",
+      "name_en": "IDDQD",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "iddqd",
+      "special_item": true,
+      "price_m0": "1",
+      "rang_m0": "1",
+      "propertys_m0": [
+        {
+          "type": "mech_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "fire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "plasma_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "rail_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "vampire_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "thunder_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "freeze_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "ricochet_resistance",
+          "value": "10%"
+        },
+        {
+          "type": "shaft_resistance",
+          "value": "10%"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "reward": {
+      "crystals": 100,
+      "bonusItems": {
+        "mine": 10,
+        "double_damage": 10,
+        "armor": 10,
+        "health": 10,
+        "n2o": 10,
+        "dragon": 1
+      }
+    },
+    "code": "GTANKS2026",
+    "usedByPlayers": [
+    ],
+    "type": "unique"
+  }
+]

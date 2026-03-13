@@ -1,0 +1,410 @@
+{
+  "type": "hulls",
+  "items": [
+    {
+      "name_ru": "Хорнет ХТ",
+      "name_en": "Hornet XT",
+      "description_en": "An improved version of the Hornet hull that outperforms all stock modifications, including the M3. It has an aggressive-technological appearance and has the most ferocious speed among all available hulls. The armor was compared with the Viking, so for those who bought this hull, we will soon turn the muzzle in the opposite direction. Hurry before you're bent over!",
+      "description_ru": "Усовершенствованная версия корпуса «Хорнет», превосходящая по мощи все стоковые модификации, включая M3. Отличается агрессивно-технологическим внешним видом и имеет самую лютую скорость среди всех имеющихся корпусов. Броню сравняли с «Викингом», поэтому тем, кто купил данный корпус, в скором времени мы завернём дуло в обратную сторону. Торопитесь, пока вас не нагнули!",
+      "modification": 0,
+      "id": "hornetxt",
+      "special_item": true,
+      "price_m0": "12000",
+      "price_m1": "-1000",
+      "price_m2": "0",
+      "price_m3": "0",
+      "rang_m0": "15",
+      "rang_m1": "0",
+      "rang_m2": "0",
+      "rang_m3": "0",
+      "propertys_m0": [
+        {
+          "type": "armor",
+          "value": "150"
+        },
+        {
+          "type": "speed",
+          "value": "11.5"
+        },
+        {
+          "type": "turn_speed",
+          "value": "200"
+        }
+      ],
+      "propertys_m1": [],
+      "propertys_m2": [],
+      "propertys_m3": [
+        {
+          "type": "armor"
+        },
+        {
+          "type": "speed"
+        },
+        {
+          "type": "turn_speed"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "НЛО",
+      "name_en": "UFO",
+      "description_en": "UFO — is an observable object resembling an aircraft, the ownership of which is not recognized by terrestrial observers.",
+      "description_ru": "НЛО — наблюдаемый объект, напоминающий летательный аппарат, принадлежность которого не опознана земными наблюдателями.",
+      "modification": 0,
+      "id": "ufo",
+      "special_item": true,
+      "price_m0": "300",
+      "price_m1": "1350",
+      "price_m2": "4000",
+      "price_m3": "12000",
+      "rang_m0": "10",
+      "rang_m1": "11",
+      "rang_m2": "12",
+      "rang_m3": "13",
+      "propertys_m0": [
+        {
+          "type": "armor",
+          "value": "65"
+        },
+        {
+          "type": "speed",
+          "value": "7.0"
+        },
+        {
+          "type": "turn_speed",
+          "value": "140"
+        }
+      ],
+      "propertys_m1": [
+        {
+          "type": "armor",
+          "value": "71"
+        },
+        {
+          "type": "speed",
+          "value": "7.5"
+        },
+        {
+          "type": "turn_speed",
+          "value": "150"
+        }
+      ],
+      "propertys_m2": [
+        {
+          "type": "armor",
+          "value": "83"
+        },
+        {
+          "type": "speed",
+          "value": "8.5"
+        },
+        {
+          "type": "turn_speed",
+          "value": "170"
+        }
+      ],
+      "propertys_m3": [
+        {
+          "type": "armor",
+          "value": "100"
+        },
+        {
+          "type": "speed",
+          "value": "10.0"
+        },
+        {
+          "type": "turn_speed",
+          "value": "200"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Викинг ХТ",
+      "name_en": "Viking XT",
+      "description_en": "An improved version of the «Viking» hull, superior in characteristics to all its existing modifications. The already armored «Viking» M3 is much inferior to its HT variant. It has a well-remembered appearance that will delight its owner all day long. Alas, this weapon was produced in limited quantities and not everyone will be able to buy it in time. So it's better to hurry up to have time to become its owner.",
+      "description_ru": "Усовершенствованная версия корпуса «Викинг», превосходящая по характеристикам все её существующие модификации. И без того бронированный «Викинг» М3, сильно уступает его ХТ варианту. Отличается хорошо запоминающимся внешним видом, который будет радовать своего владельца круглыми сутками. Увы, это орудие произвели в ограниченном количестве и не все смогут успеть его купить. Так что лучше поторопиться, чтобы успеть стать его обладателем.",
+      "modification": 0,
+      "id": "vikingxt",
+      "special_item": true,
+      "price_m0": "20000",
+      "price_m1": "0",
+      "price_m2": "0",
+      "price_m3": "0",
+      "rang_m0": "16",
+      "rang_m1": "0",
+      "rang_m2": "0",
+      "rang_m3": "0",
+      "propertys_m0": [
+        {
+          "type": "armor",
+          "value": "170"
+        },
+        {
+          "type": "speed",
+          "value": "8.9"
+        },
+        {
+          "type": "turn_speed",
+          "value": "110"
+        }
+      ],
+      "propertys_m1": [],
+      "propertys_m2": [],
+      "propertys_m3": [
+        {
+          "type": "armor"
+        },
+        {
+          "type": "speed"
+        },
+        {
+          "type": "turn_speed"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Мамонт Halloween",
+      "name_en": "Mammonth Halloween",
+      "description_en": "There are legends about a corps that is superior in strength to all existing ones. Even among the most famous and experienced tankers, one mention of him makes the blood run cold. He appears only on Halloween to sow evil and fear in the souls of living people. He is feared and hated because of his invincibility and destructive power. Some fearless, but mostly insane tankers will try their best to get it, even through deceit and betrayal.",
+      "description_ru": "Ходят легенды о корпусе превосходящего по силе мощи все ныне существующие. Даже у самых знаменитых и опытных танкистов, одно его упоминание заставляет кровь стынуть в жилах. Он появляется только на Хэллоуин, что бы посеять зло и страх в души живых людей. Его бояться и ненавидят, из-за его непобедимости и разрушительной мощи. Некоторые бесстрашные, но в основном безумные танкисты будут пытаться всеми силами его заполучить, даже путем обмана и предательств.",
+      "modification": 0,
+      "id": "mamonthw",
+      "special_item": true,
+      "price_m0": "24200",
+      "price_m1": "-1000",
+      "price_m2": "0",
+      "price_m3": "0",
+      "rang_m0": "16",
+      "rang_m1": "0",
+      "rang_m2": "0",
+      "rang_m3": "0",
+      "propertys_m0": [
+        {
+          "type": "armor",
+          "value": "220"
+        },
+        {
+          "type": "speed",
+          "value": "5.5"
+        },
+        {
+          "type": "turn_speed",
+          "value": "110"
+        }
+      ],
+      "propertys_m1": [],
+      "propertys_m2": [],
+      "propertys_m3": [
+        {
+          "type": "armor"
+        },
+        {
+          "type": "speed"
+        },
+        {
+          "type": "turn_speed"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Диктатор NY",
+      "name_en": "Dictator NY",
+      "description_en": "An experimental New Year's version of the Dictator hull, surpassing all its existing analogues in all characteristics. It has a well-remembered festive look that will give everyone the mood of the upcoming holiday. This appearance is given to it by the fragments of magical ice that were used in its production. Someone believes that these pieces of ice were mined at the North Pole, not far from the base of Santa Claus. Alas, this case was produced in a limited series, since its production turned out to be very costly..",
+      "description_ru": "Экспериментальная новогодняя версия корпуса «Диктатор», превосходящая по всем характеристикам все его существующие аналоги. Имеет хорошо запоминающимся праздничный вид, который будет дарить всем настроение грядущего праздника. Такой внешний вид ему придают осколки магического льда, которые использовались при его производстве. Кто-то считает, что эти осколки льда были добыты на Северном Полюсе, неподалёку от базы Санта-Клауса. Увы, этот корпус произвели ограниченной серией, так как его производство оказалась очень затратным..",
+      "modification": 0,
+      "id": "dictatorny",
+      "special_item": true,
+      "price_m0": "24200",
+      "price_m1": "-1000",
+      "price_m2": "0",
+      "price_m3": "0",
+      "rang_m0": "13",
+      "rang_m1": "0",
+      "rang_m2": "0",
+      "rang_m3": "0",
+      "propertys_m0": [
+        {
+          "type": "armor",
+          "value": "170"
+        },
+        {
+          "type": "speed",
+          "value": "7.0"
+        },
+        {
+          "type": "turn_speed",
+          "value": "170"
+        }
+      ],
+      "propertys_m1": [],
+      "propertys_m2": [],
+      "propertys_m3": [
+        {
+          "type": "armor"
+        },
+        {
+          "type": "speed"
+        },
+        {
+          "type": "turn_speed"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Титан ХТ",
+      "name_en": "Titan XT",
+      "description_en": "Titan, a massive and tenacious hull, had only one drawback: high mass. Despite the use of titanium as the main component, the weight of the hull still did not allow it to move through swampy terrain and soft soils of the middle lane. This made the troops of the front line dependent on the means of communication, which did not allow them to quickly transfer units between cities, since the enemy, realizing that the city could not be held, destroyed most of the roads before retreating. In the field, attempts began to modernize the corps, since there were not enough «Mammoths», ideally suited for fighting on the front line, and they were delivered only to the most difficult sections of the front. In the 134 shock unit, one of the most popular modifications of the «Titan» was developed: expanded tracks and a new power plant allowed the tanks not only to move quickly over rough terrain, but also opened up the possibility of installing additional armor plates. The frontal projection was reinforced with super-refractory spaced plates, which effectively protected the tanks from any thermal impact. There were not so many craftsmen among the tankers, and there was no official acceptance of the modernized «Titan» into service, so at the moment only a small number of modified hulls have been preserved.",
+      "description_ru": "Титан, массовый и живучий корпус, имел всего лишь один недостаток: высокую массу. Несмотря на использование титана в качестве основного компонента масса корпуса все равно не позволяла ему передвигаться по заболоченной местности и мягким грунтам средней полосы. Это делало войска передовой зависимыми от путей сообщения, что не позволяло быстро перебрасывать части между городами, так как противник, понимая что город не удержать, уничтожал большинство дорог перед отступлением. В полевых условия начались попытки модернизировать корпус, так как «Мамонтов», идеально подходящих для боев на передовой, не хватало, и они поставлялись только на самые сложные участки фронта. В 134 ударной части была разработана одна из самых популярных модификаций «Титана»: расширенные гусеницы и новая энергетическая установка позволили танкам не только быстро передвигаться по пересеченной местности, но и открыли возможности по установке дополнительных бронепластин. Лобовая проекция была укреплена сверхтугоплавкими разнесенными плитами, которые эффективно защищали танки от любого термического воздействия. Умельцев среди танкистов было не так уж и много, а официального принятия модернизированного «Титана» на вооружение не последовало, поэтому на данный момент сохранилось лишь небольшое количество доработанных корпусов.",
+      "modification": 0,
+      "id": "titanxt",
+      "special_item": true,
+      "price_m0": "20",
+      "price_m1": "100",
+      "price_m2": "300",
+      "price_m3": "900",
+      "rang_m0": "1",
+      "rang_m1": "5",
+      "rang_m2": "7",
+      "rang_m3": "9",
+      "propertys_m0": [
+        {
+          "type": "armor",
+          "value": "200"
+        },
+        {
+          "type": "speed",
+          "value": "6.5"
+        },
+        {
+          "type": "turn_speed",
+          "value": "80"
+        }
+      ],
+      "propertys_m1": [],
+      "propertys_m2": [],
+      "propertys_m3": [
+        {
+          "type": "armor"
+        },
+        {
+          "type": "speed"
+        },
+        {
+          "type": "turn_speed"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Хантер Halloween",
+      "name_en": "Hunter Halloween",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "hunterhw",
+      "special_item": true,
+      "price_m0": "7000",
+      "price_m1": "-1000",
+      "price_m2": "0",
+      "price_m3": "0",
+      "rang_m0": "14",
+      "rang_m1": "0",
+      "rang_m2": "0",
+      "rang_m3": "0",
+      "propertys_m0": [
+        {
+          "type": "armor",
+          "value": "150"
+        },
+        {
+          "type": "speed",
+          "value": "8.5"
+        },
+        {
+          "type": "turn_speed",
+          "value": "165"
+        }
+      ],
+      "propertys_m1": [],
+      "propertys_m2": [],
+      "propertys_m3": [
+        {
+          "type": "armor"
+        },
+        {
+          "type": "speed"
+        },
+        {
+          "type": "turn_speed"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Преторианец",
+      "name_en": "Praetorian",
+      "description_en": "null",
+      "description_ru": "null",
+      "modification": 0,
+      "id": "praetorian",
+      "special_item": true,
+      "price_m0": "12000",
+      "price_m1": "-1000",
+      "price_m2": "0",
+      "price_m3": "0",
+      "rang_m0": "1",
+      "rang_m1": "0",
+      "rang_m2": "0",
+      "rang_m3": "0",
+      "propertys_m0": [
+        {
+          "type": "armor",
+          "value": "150"
+        },
+        {
+          "type": "speed",
+          "value": "11.5"
+        },
+        {
+          "type": "turn_speed",
+          "value": "200"
+        }
+      ],
+      "propertys_m1": [],
+      "propertys_m2": [],
+      "propertys_m3": [
+        {
+          "type": "armor"
+        },
+        {
+          "type": "speed"
+        },
+        {
+          "type": "turn_speed"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    }
+  ]
+}

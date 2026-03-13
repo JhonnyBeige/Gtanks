@@ -1,0 +1,562 @@
+{
+  "type": "turrets",
+  "items": [
+    {
+      "name_ru": "Тыква",
+      "name_en": "Pumpkin gun",
+      "description_en": "«Ricochet» plasma gun is a new secret project of Siberian scientists. To produce this gun team of 22 high-class professionals have been working in the underground bunker more then three years without permission to exit on the surface. And their have created unique weapon. It throws plasma charges cloaked with «clever» minus-field. When such charge hits the tank it explodes but it bounces of any other surface. So using «Ricochet» you can defeat even targets out of over visibility range. But be careful! Do not stand in the way of a released charge, so you can do damage to youself.",
+      "description_ru": "Экспериментальное орудие, разработанное на базе обычной пушки «Рикошет». Это объясняется не только схожим видом ствола, но и такими же рикошетящими снарядами. Также, при выстреле эти снаряды сильно нагреваются, что позволяет им расплавить броню противника, не оставляя ему шансов на выживание. Так что, на этом орудии можно не только стрелять из-за угла, но и поджигать всех, кто попадется под горячую руку, как бы двусмысленно это не звучало.",
+      "modification": 0,
+      "id": "pumpkingun",
+      "special_item": true,
+      "price_m0": "650",
+      "price_m1": "2000",
+      "price_m2": "6000",
+      "price_m3": "18000",
+      "rang_m0": "13",
+      "rang_m1": "14",
+      "rang_m2": "15",
+      "rang_m3": "16",
+      "propertys_m0": [
+        {
+          "type": "damage",
+          "value": "10 - 12"
+        },
+        {
+          "type": "shot_frequency",
+          "value": "100.0"
+        },
+        {
+          "type": "turret_turn_speed",
+          "value": "74.5"
+        },
+        {
+          "type": "shot_range",
+          "value": "80"
+        }
+      ],
+      "propertys_m1": [],
+      "propertys_m2": [],
+      "propertys_m3": [
+        {
+          "type": "damage"
+        },
+        {
+          "type": "shot_frequency"
+        },
+        {
+          "type": "turret_turn_speed"
+        },
+        {
+          "type": "shot_range"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Снеговик",
+      "name_en": "Snowman",
+      "description_ru": "   ",
+      "description_en": "   ",
+      "modification": 0,
+      "id": "snowman",
+      "special_item": true,
+      "price_m0": "1000",
+      "price_m1": "1200",
+      "price_m2": "1750",
+      "price_m3": "2050",
+      "rang_m0": "1",
+      "rang_m1": "3",
+      "rang_m2": "5",
+      "rang_m3": "7",
+      "propertys_m0": [
+        {
+          "type": "damage",
+          "value": "8-10"
+        },
+        {
+          "type": "shot_frequency",
+          "value": "150.0"
+        },
+        {
+          "type": "turret_turn_speed",
+          "value": "70.0"
+        },
+        {
+          "type": "shot_range",
+          "value": "50"
+        }
+      ],
+      "propertys_m1": [
+        {
+          "type": "damage",
+          "value": "12-18"
+        },
+        {
+          "type": "shot_frequency",
+          "value": "105.5"
+        },
+        {
+          "type": "turret_turn_speed",
+          "value": "80.7"
+        },
+        {
+          "type": "shot_range",
+          "value": "60"
+        }
+      ],
+      "propertys_m2": [
+        {
+          "type": "damage",
+          "value": "13-20"
+        },
+        {
+          "type": "shot_frequency",
+          "value": "109.2"
+        },
+        {
+          "type": "turret_turn_speed",
+          "value": "95.3"
+        },
+        {
+          "type": "shot_range",
+          "value": "65"
+        }
+      ],
+      "propertys_m3": [
+        {
+          "type": "damage",
+          "value": "14 - 23"
+        },
+        {
+          "type": "shot_frequency",
+          "value": "115"
+        },
+        {
+          "type": "turret_turn_speed",
+          "value": "112.2"
+        },
+        {
+          "type": "shot_range",
+          "value": "69"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Смоки ХТ",
+      "name_en": "Smoky XT",
+      "description_en": "The improved version of the classic «Smoky» surpasses in power all its ordinary modifications, including the M3. An experimental batch of guns was stolen from the factory and appeared on the black market bypassing all legal channels. However, special agents are already on the trail of the kidnappers and will soon get to the buyers to confiscate the Smoky XT. Hurry up!.",
+      "description_ru": "Усовершенствованная версия классической «Смоки» превосходит по мощи все её рядовые модификации, включая M3. Экспериментальная партия пушек была похищена с завода и появилась на чёрном рынке в обход всех легальных каналов. Однако спецагенты уже вышли на след похитителей и скоро доберутся до покупателей, чтобы конфисковать Смоки ХТ. Торопитесь!",
+      "modification": 0,
+      "id": "smokyxt",
+      "special_item": true,
+      "price_m0": "3950",
+      "price_m1": "0",
+      "price_m2": "0",
+      "price_m3": "0",
+      "rang_m0": "11",
+      "rang_m1": "0",
+      "rang_m2": "0",
+      "rang_m3": "0",
+      "propertys_m0": [
+        {
+          "type": "damage",
+          "value": "26 - 46"
+        },
+        {
+          "type": "shot_frequency",
+          "value": "37.5"
+        },
+        {
+          "type": "turret_turn_speed",
+          "value": "103.1"
+        }
+      ],
+      "propertys_m1": [],
+      "propertys_m2": [],
+      "propertys_m3": [
+        {
+          "type": "damage"
+        },
+        {
+          "type": "shot_frequency"
+        },
+        {
+          "type": "turret_turn_speed"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Рельса ХТ",
+      "name_en": "Railgun XT",
+      "description_en": "An improved version of the «Railgun» cannon, surpassing all its existing modifications in characteristics. The already powerful «Railgun» of the third modification is inferior by a head to its analogue XT. It has a bold and technological appearance that will be remembered by enemies until the end of days. As long as the tanker has this powerful unit, nothing threatens him. Alas, this weapon was produced in limited quantities and not everyone will be able to buy it in time. So it's better to hurry up to have time to become its owner.",
+      "description_ru": "Усовершенствованная версия пушки «Рельса», превосходящая по характеристикам все её существующие модификации. И без того мощная «Рельса» третьей модификации, уступает на голову её аналогу ХТ. Отличается дерзким и технологическим внешним видом, который будет запоминаться врагам до конца дней. Пока у танкиста имеется этот мощный агрегат, ему ничего не угрожает. Увы, это орудие произвели в ограниченном количестве и не все смогут успеть его купить. Так что лучше поторопиться, чтобы успеть стать его обладателем.",
+      "modification": 0,
+      "id": "railgunxt",
+      "special_item": true,
+      "price_m0": "3950",
+      "price_m1": "0",
+      "price_m2": "0",
+      "price_m3": "0",
+      "rang_m0": "11",
+      "rang_m1": "0",
+      "rang_m2": "0",
+      "rang_m3": "0",
+      "propertys_m0": [
+        {
+          "type": "damage",
+          "value": "65 - 100"
+        },
+        {
+          "type": "shot_frequency",
+          "value": "5.5"
+        },
+        {
+          "type": "turret_turn_speed",
+          "value": "95.4"
+        }
+      ],
+      "propertys_m1": [],
+      "propertys_m2": [],
+      "propertys_m3": [
+        {
+          "type": "damage"
+        },
+        {
+          "type": "shot_frequency"
+        },
+        {
+          "type": "turret_turn_speed"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Гром Halloween",
+      "name_en": "Thunder Halloween",
+      "description_en": "Especially for this modification, shells were created that can destroy any enemy. When such a projectile hits the enemy, static electricity occurs, causing ball lightning, which destroys the enemy tank without leaving him a chance. This modification has a very daring appearance that will inspire allies and scare off opponents. Alas, the production of guns and shells turned out to be too expensive for him, so they were produced in a small series.",
+      "description_ru": "Специально для этой модификации, были созданы снаряды, способные уничтожить любого противника. При попадании такого снаряда в противника, происходит статическое электричество, вызывающие шаровую молнию, которая уничтожает танк противника не оставляя ему шансов. У этой модификации присутствует весьма дерзкий внешний вид, который будет воодушевлять союзников и отпугивать противников. Увы производство орудия и снарядов для него оказалось слишком дорогим, поэтому их произвели небольшой серией.",
+      "modification": 0,
+      "id": "hwthunder",
+      "special_item": true,
+      "price_m0": "20000",
+      "price_m1": "-1000",
+      "price_m2": "0",
+      "price_m3": "0",
+      "rang_m0": "17",
+      "rang_m1": "0",
+      "rang_m2": "0",
+      "rang_m3": "0",
+      "propertys_m0": [
+        {
+          "type": "damage",
+          "value": "25 - 50"
+        },
+        {
+          "type": "critical_damage",
+          "value": "60"
+        },
+        {
+          "type": "shot_frequency",
+          "value": "2.1"
+        },
+        {
+          "type": "turret_turn_speed",
+          "value": "94.6"
+        }
+      ],
+      "propertys_m1": [],
+      "propertys_m2": [],
+      "propertys_m3": [
+        {
+          "type": "damage"
+        },
+        {
+          "type": "critical_damage"
+        },
+        {
+          "type": "shot_frequency"
+        },
+        {
+          "type": "turret_turn_speed"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Фриз NY",
+      "name_en": "Freeze NY",
+      "description_en": "Experimental, New Year's version of the Frezee cannon. Unlike the regular Frezee, this one has a damage and freeze effect that is much stronger and more deadly than its regular counterpart. Also, this modification has a beautiful festive look, which gives everyone a New Year's mood. Such deadly beauty and excellent damage makes its owner a real scumbag. Shards of magical ice give it such enormous power and dazzling beauty. Which makes it a unique and pleasant gift for the coming year. So it’s better to hurry up in order to become its owner and give yourself a nice gift.",
+      "description_ru": "Экспериментальная, новогодняя версия пушки «Фриз». В отличии от обычного Фриза, этот имеет урон и эффект заморозки намного сильнее и убийственнее, чем его обычный аналог. Также, эта модификация имеет красивый праздничный вид, который придает всем новогодние настроение. Такая убийственная красота и прекрасный урон делает его владельца настоящим отморозком. Такую огромную силу и ослепительную красоту ему придают осколки магического льда. Что делает его уникальным и приятным подарком к наступающему году. Так что лучше поторопиться, чтобы успеть стать его обладателем и сделать себе приятный подарок.",
+      "modification": 0,
+      "id": "frezeeny",
+      "special_item": true,
+      "price_m0": "20000",
+      "price_m1": "0",
+      "price_m2": "0",
+      "price_m3": "0",
+      "rang_m0": "14",
+      "rang_m1": "0",
+      "rang_m2": "0",
+      "rang_m3": "0",
+      "propertys_m0": [
+        {
+          "type": "damage_per_second",
+          "value": "37"
+        },
+        {
+          "type": "turret_turn_speed",
+          "value": "148.5"
+        },
+        {
+          "type": "cone_angle",
+          "value": "20"
+        },
+        {
+          "type": "shot_range",
+          "value": "27"
+        }
+      ],
+      "propertys_m1": [],
+      "propertys_m2": [],
+      "propertys_m3": [
+        {
+          "type": "damage_per_second"
+        },
+        {
+          "type": "turret_turn_speed"
+        },
+        {
+          "type": "cone_angle"
+        },
+        {
+          "type": "shot_range"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Твинс ХТ",
+      "name_en": "Twins XT",
+      "description_en": "The «Twins XT» modification — is an improved version of the regular Twins, the characteristics of which are much higher than the basic M3 modification. A high rate of fire with good average damage allows this gun to compete with Ricochet.",
+      "description_ru": "Модификация «Твинс ХТ» — улучшенная версия обычного Твинса, характеристики которого намного выше базовой М3 модификации. Высокая скорострельность с хорошем средним уроном позволяет этой пушке тягаться с Рикошетом.",
+      "modification": 0,
+      "id": "twinsxt",
+      "special_item": true,
+      "price_m0": "10",
+      "price_m1": "50",
+      "price_m2": "150",
+      "price_m3": "500",
+      "rang_m0": "1",
+      "rang_m1": "6",
+      "rang_m2": "8",
+      "rang_m3": "10",
+      "propertys_m0": [
+        {
+          "type": "damage",
+          "value": "8 - 11"
+        },
+        {
+          "type": "shot_frequency",
+          "value": "181.8"
+        },
+        {
+          "type": "turret_turn_speed",
+          "value": "120.3"
+        },
+        {
+          "type": "shot_range",
+          "value": "60"
+        }
+      ],
+      "propertys_m1": [],
+      "propertys_m2": [],
+      "propertys_m3": [
+        {
+          "type": "damage"
+        },
+        {
+          "type": "shot_frequency"
+        },
+        {
+          "type": "turret_turn_speed"
+        },
+        {
+          "type": "shot_range"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Огнемёт Halloween",
+      "name_en": "Firebird Halloween",
+      "description_en": "",
+      "description_ru": "После удачной модификации «Изиды» в Сколково поступил запрос от военных на модификацию «Огнемета» в целях повышения его эффективности в особо горячих точках. Вместе с небольшим количеством топлива, которое раньше было повсеместно, решили использовать дешевые ядерные отходы - урон, за счет постепенного разрушения вражеского шасси, возрос многократно. Очевидно, что экипаж не мог управлять таким танком, поэтому их место заняли операторы, работающие удаленно. Но некий портал из соседней лаборатории повлиял на конструкцию и внешний вид нескольких орудий, в том числе и на «Огнемет», поэтому Командование приняло решение списать опытные образцы, которые в итоге попали на черный рынок. Осторожно! Орудия «Фриз» и «Изида» могут погасить пламя!",
+      "modification": 0,
+      "id": "flamethrowerhw",
+      "special_item": true,
+      "price_m0": "5000",
+      "price_m1": "0",
+      "price_m2": "0",
+      "price_m3": "0",
+      "rang_m0": "14",
+      "rang_m1": "0",
+      "rang_m2": "0",
+      "rang_m3": "0",
+      "propertys_m0": [
+        {
+          "type": "damage_per_second",
+          "value": "30"
+        },
+        {
+          "type": "turret_turn_speed",
+          "value": "171.9"
+        },
+        {
+          "type": "cone_angle",
+          "value": "20"
+        },
+        {
+          "type": "shot_range",
+          "value": "20"
+        }
+      ],
+      "propertys_m1": [],
+      "propertys_m2": [],
+      "propertys_m3": [
+        {
+          "type": "damage_per_second"
+        },
+        {
+          "type": "turret_turn_speed"
+        },
+        {
+          "type": "cone_angle"
+        },
+        {
+          "type": "shot_range"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "Изида Halloween",
+      "name_en": "Isida Halloween",
+      "description_en": "In an attempt to solve the world energy crisis, Skolkovo switched all their attention to the section of mathematics involving Set Theory. They considered the phenomenon of spatial infinities and the existence of additional coordinates in the structure of the universe, in addition to the already existing three spatial and one temporal. Soon after that, scientists discovered the «Dark Dimension» - another reality, which, following the geometric principle, contained not four but an infinite number of spatial axes. On the basis of already existing Isis gun, having re-equipped its pulse emitter to communicate with the «Dark Dimension», scientists created a new gun capable of manipulating its multidimensional nature. By creating and destroying the entire structure of this dimension in its «open mouth», this version of Isis directs the stream of singular energy recreated from the destruction of the «Dark Dimension» into more confined spaces: not only directly into the enemy turret, but also into its batteries, so they never run out of power again. Although the cannon now warms up quickly and needs time to cool down between salvos, this is still faster than charging the battery of the standard «Isis» version of the cannon. In addition, since the nanorobots were no longer used to inflict damage on enemies, and there was not enough space in the hull, I had to write off half of the nanomass generators to the school laboratories.",
+      "description_ru": "В попытках разрешить мировой энергетический кризис, в Сколково переключили всё своё внимание на раздел математики, затрагивающий Теорию множеств. Ими был рассмотрен феномен пространственных бесконечностей и существование дополнительных координат в устройстве вселенной, помимо уже имеющихся трёх пространственных и одной временной. Вскоре после этого, учёные открыли «Тёмное измерение» — иную реальность, которая, следуя геометрическому принципу, содержала в себе не четыре а бесконечное количество пространственных осей. На основе уже существующей пушки «Изида», переоборудовав её импульсный излучатель для связи с «Тёмным измерением», учёные создали новую пушку, способную манипулировать его многомерной природой. Создавая и разрушая всю структуру этого измерения в своей «открытой пасти», эта версия «Изиды» направляет поток сингулярной энергии воссозданный от разрушения «Тёмного измерения» в более ограниченные пространства: не только прямо в башню противника, но и в свои аккумуляторы, благодаря чему они больше никогда не разряжаются. Хотя теперь пушка быстро греется и ей нужно время, что бы остывать между залпами, происходит это всё равно быстрее, чем зарядка аккумулятора стандартной версии пушки «Изида». К тому же, так как нанороботы больше не использовались для нанесения урона противникам, да и места в корпусе было мало, пришлось списать половину генераторов наномассы в школьные лаборатории.",
+      "modification": 0,
+      "id": "isidahw",
+      "special_item": true,
+      "price_m0": "5000",
+      "price_m1": "-1000",
+      "price_m2": "0",
+      "price_m3": "0",
+      "rang_m0": "14",
+      "rang_m1": "0",
+      "rang_m2": "0",
+      "rang_m3": "0",
+      "propertys_m0": [
+        {
+          "type": "heal_rate",
+          "value": "12"
+        },
+        {
+          "type": "vampire_rate",
+          "value": "32"
+        },
+        {
+          "type": "turret_turn_speed",
+          "value": "120.3"
+        },
+        {
+          "type": "healing_radius",
+          "value": "15"
+        }
+      ],
+      "propertys_m1": [],
+      "propertys_m2": [],
+      "propertys_m3": [
+        {
+          "type": "heal_rate"
+        },
+        {
+          "type": "vampire_rate"
+        },
+        {
+          "type": "turret_turn_speed"
+        },
+        {
+          "type": "healing_radius"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    },
+    {
+      "name_ru": "BFG",
+      "name_en": "BFG",
+      "description_en": "description",
+      "description_ru": "description",
+      "modification": 0,
+      "id": "bfg",
+      "special_item": true,
+      "price_m0": "7500",
+      "price_m1": "-1000",
+      "price_m2": "0",
+      "price_m3": "0",
+      "rang_m0": "1",
+      "rang_m1": "0",
+      "rang_m2": "0",
+      "rang_m3": "0",
+      "propertys_m0": [
+        {
+          "type": "damage",
+          "value": "110 - 170"
+        },
+        {
+          "type": "shot_frequency",
+          "value": "26.7"
+        },
+        {
+          "type": "turret_turn_speed",
+          "value": "91.7"
+        }
+      ],
+      "propertys_m1": [],
+      "propertys_m2": [],
+      "propertys_m3": [
+        {
+          "type": "damage"
+        },
+        {
+          "type": "shot_frequency"
+        },
+        {
+          "type": "turret_turn_speed"
+        }
+      ],
+      "groups": [
+        "admin"
+      ]
+    }
+  ]
+}

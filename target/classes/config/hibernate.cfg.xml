@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+		<property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <property name="connection.url">jdbc:mysql://127.0.0.1/gtanks</property>
+        <property name="connection.username">root</property>
+        <property name="connection.password"></property>
+		<property name="connection.gtanksTimezone">UTC</property>
+		<property name="connection.tcpKeepAlive">true</property>
+		<property name="connection.autoReconnect">true</property>
+		<property name="connection.autoReconnectForPools">true</property>
+		<property name="connection.is-connection-validation-required">true</property>
+		<property name="connection.autocommit">true</property>
+		<property name="bytecode.use_reflection_optimizer">true</property>
+		<property name="hibernate.default_schema">dbo</property>
+        <property name="connection.provider_class">org.hibernate.c3p0.internal.C3P0ConnectionProvider</property>
+        <property name="show_sql">false</property>
+        <property name="hbm2ddl.auto">update</property>
+		<property name="hibernate.current_session_context_class">thread</property>
+		<property name="validationQuery">select 1</property>
+		<property name="c3p0.debug">false</property>
+        <property name="c3p0.acquire_increment">3</property>
+        <property name="c3p0.idle_test_period">10</property>
+        <property name="c3p0.min_size">5</property>
+        <property name="c3p0.max_size">75</property>
+        <property name="c3p0.max_statements">10</property>
+        <property name="c3p0.timeout">86400000</property>
+        <property name="c3p0.preferredTestQuery">select 1</property>
+		<property name="c3p0.testConnectionOnCheckin">false</property>
+        <property name="c3p0.testConnectionOnCheckout">true</property>
+		
+        <mapping class="gtanks.users.User"/>
+        <mapping class="gtanks.users.garage.Garage"/>
+        <mapping class="gtanks.users.karma.Karma"/>
+        <mapping class="gtanks.main.netty.blackip.BlackIP"/>
+        <mapping class="gtanks.logger.remote.LogObject"/>
+	<mapping class="gtanks.rmi.payments.mapping.Payment"/>
+        <mapping class="gtanks.system.news.objects.UserViewedNewsInfo"/>
+     </session-factory>
+</hibernate-configuration>

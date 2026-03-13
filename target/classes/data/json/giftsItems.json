@@ -1,0 +1,137 @@
+[
+  {
+    "item_id": "armor",
+    "count": 30,
+    "rarity": 0
+  },
+  {
+    "item_id": "double_damage",
+    "count": 30,
+    "rarity": 0
+  },
+  {
+    "item_id": "n2o",
+    "count": 30,
+    "rarity": 0
+  },
+  {
+    "item_id": "mine",
+    "count": 10,
+    "rarity": 0
+  },
+  {
+    "item_id": "health",
+    "count": 10,
+    "rarity": 0
+  },
+  {
+    "item_id": "no_supplies",
+    "count": 0,
+    "rarity": 0
+  },
+  {
+    "item_id": "lava",
+    "count": 0,
+    "rarity": 0
+  },
+  {
+    "item_id": "forester",
+    "count": 0,
+    "rarity": 0
+  },
+  {
+    "item_id": "armor",
+    "count": 100,
+    "rarity": 1
+  },
+  {
+    "item_id": "double_damage",
+    "count": 100,
+    "rarity": 1
+  },
+  {
+    "item_id": "n2o",
+    "count": 100,
+    "rarity": 1
+  },
+  {
+    "item_id": "mine",
+    "count": 50,
+    "rarity": 1
+  },
+  {
+    "item_id": "health",
+    "count": 30,
+    "rarity": 1
+  },
+  {
+    "item_id": "surf",
+    "count": 0,
+    "rarity": 1
+  },
+  {
+    "item_id": "blizzard",
+    "count": 0,
+    "rarity": 1
+  },
+  {
+    "item_id": "crystalls",
+    "count": 1500,
+    "rarity": 2
+  },
+  {
+    "item_id": "set_50",
+    "count": 0,
+    "rarity": 2
+  },
+  {
+    "item_id": "surf",
+    "count": 0,
+    "rarity": 2
+  },
+  {
+    "item_id": "mary",
+    "count": 0,
+    "rarity": 2
+  },
+  {
+    "item_id": "khokhloma",
+    "count": 0,
+    "rarity": 2
+  },
+  {
+    "item_id": "krio",
+    "count": 0,
+    "rarity": 3
+  },
+  {
+    "item_id": "tundra",
+    "count": 0,
+    "rarity": 3
+  },
+  {
+    "item_id": "crystalls",
+    "count": 3000,
+    "rarity": 3
+  },
+  {
+    "item_id": "set_150",
+    "count": 0,
+    "rarity": 3
+  },
+  {
+    "item_id": "frezeeny",
+    "count": 0,
+    "rarity": 4
+  },
+  {
+    "item_id": "dictatorny",
+    "count": 0,
+    "rarity": 4
+  },
+  {
+    "item_id": "crystalls",
+    "count": 8000,
+    "rarity": 4
+  }
+]
